@@ -10,8 +10,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
-            .frame(maxWidth: .infinity, maxHeight: .infinity)
+		MenuButton("Show menu") {
+			Button("first") {}
+			Button("second") {}
+			Divider()
+			Text("label")
+			Button("third") {}
+		}
     }
 }
 
