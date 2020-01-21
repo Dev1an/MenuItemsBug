@@ -7,7 +7,7 @@
 3. Click on "Show menu"
 4. Hover over the menu items
 
-![Screen capture](Screen-capture.gif)
+![Screen capture](MenuItems/Screen-capture.gif)
 
 
 ## Code
